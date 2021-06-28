@@ -1,0 +1,37 @@
+.card-body2{
+    padding: 1vw;
+   
+    padding-top: 5vw;
+    border-right: 1px groove rgb(230, 222, 222);
+  
+ 
+  
+}
+
+#tx1{
+    padding-top: 5vw;
+    border-top: 1px solid rgb(238, 195, 54);
+  
+}
+
+.col-sm-2{
+    padding-top: 2vw;
+    border-right: 1px groove rgb(255, 255, 255);
+  
+    
+}
+.card-title1{
+    padding-top: 1vw;
+}
+#btn1{
+    float: right;
+    margin-right: 1vw;
+    border-color: transparent;
+    border-bottom-color: rgb(236, 232, 236) ;
+    border-radius: 100px;
+}
+
+.row{
+    margin-top: 5vw;
+   
+}
