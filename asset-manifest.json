@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Ssuryavansham/trial/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Ssuryavansham/trial/static/js/main.e9f071ae.chunk.js",
-    "main.js.map": "/Ssuryavansham/trial/static/js/main.e9f071ae.chunk.js.map",
-    "runtime-main.js": "/Ssuryavansham/trial/static/js/runtime-main.417a1822.js",
-    "runtime-main.js.map": "/Ssuryavansham/trial/static/js/runtime-main.417a1822.js.map",
-    "static/js/2.233005a6.chunk.js": "/Ssuryavansham/trial/static/js/2.233005a6.chunk.js",
-    "static/js/2.233005a6.chunk.js.map": "/Ssuryavansham/trial/static/js/2.233005a6.chunk.js.map",
-    "static/js/3.e7290e64.chunk.js": "/Ssuryavansham/trial/static/js/3.e7290e64.chunk.js",
-    "static/js/3.e7290e64.chunk.js.map": "/Ssuryavansham/trial/static/js/3.e7290e64.chunk.js.map",
-    "index.html": "/Ssuryavansham/trial/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Ssuryavansham/trial/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.233005a6.chunk.js.LICENSE.txt": "/Ssuryavansham/trial/static/js/2.233005a6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Ssuryavansham/trial/static/media/logo.6ce24c58.svg"
+    "main.css": "/https//Ssuryavansham.github.io/trial/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/https//Ssuryavansham.github.io/trial/static/js/main.e9f071ae.chunk.js",
+    "main.js.map": "/https//Ssuryavansham.github.io/trial/static/js/main.e9f071ae.chunk.js.map",
+    "runtime-main.js": "/https//Ssuryavansham.github.io/trial/static/js/runtime-main.7a1c8b97.js",
+    "runtime-main.js.map": "/https//Ssuryavansham.github.io/trial/static/js/runtime-main.7a1c8b97.js.map",
+    "static/js/2.233005a6.chunk.js": "/https//Ssuryavansham.github.io/trial/static/js/2.233005a6.chunk.js",
+    "static/js/2.233005a6.chunk.js.map": "/https//Ssuryavansham.github.io/trial/static/js/2.233005a6.chunk.js.map",
+    "static/js/3.e7290e64.chunk.js": "/https//Ssuryavansham.github.io/trial/static/js/3.e7290e64.chunk.js",
+    "static/js/3.e7290e64.chunk.js.map": "/https//Ssuryavansham.github.io/trial/static/js/3.e7290e64.chunk.js.map",
+    "index.html": "/https//Ssuryavansham.github.io/trial/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/https//Ssuryavansham.github.io/trial/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.233005a6.chunk.js.LICENSE.txt": "/https//Ssuryavansham.github.io/trial/static/js/2.233005a6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//Ssuryavansham.github.io/trial/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.417a1822.js",
+    "static/js/runtime-main.7a1c8b97.js",
     "static/js/2.233005a6.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.e9f071ae.chunk.js"
