@@ -1,10 +1,11 @@
 import React from 'react'
-
+import "./Header.css"
+import Images from "../src/Images/circle-infor.svg"
 const Header = () => {
     return (
       <>
      <div className="container-fluid" id="cont4">
-     <h1> Sidhant here </h1>
+     <img src = {Images}></img><spam>READ ABOUT OUR COVID-19 PRECAUTIONS</spam>
      </div>
       </>
     );
