@@ -1,14 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from "./Header";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+import Second  from './Second';
+
 import Navbar from "./Navbar";
-import Second_body from "./Second_body";
+
 function App() {
   return (
     <>
-    <Header />
+    
     <Navbar />
-    <Second_body />
+    <Second />
+   
     </>
    
   );
