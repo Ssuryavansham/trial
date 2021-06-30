@@ -13,8 +13,8 @@ const Second = () => {
               
            
       
-        <h1 class="card-title">The Future of Desiging</h1><h1>Care is Home</h1>
-        <p class="card-text">Over a decade of Trusted care</p>
+        <h1 class="card-title">The Future of Desiging</h1><h2>Provide By Our Compney</h2>
+        <p class="card-text">This site is Under Cunstraction</p>
         <a href="#" class="btn btn-primary">REQUEST AN APPOINMENT</a>
       </div>
  

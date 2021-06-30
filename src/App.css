@@ -2,7 +2,7 @@
 #first{
   margin-top: -5vw;
 }
-  
+
 
 
 
@@ -43,3 +43,22 @@ height: 40vw;
 .col-md-7{
   padding: 8vw;
 }
+
+
+
+@media screen and (max-width: 480px) {
+  .col-md-5{
+    background-size: cover;
+    height: 100vw;
+  }
+
+  .Container{
+    height: 100vw;
+    width: 100%;
+  }
+}
+
+
+
+
+
