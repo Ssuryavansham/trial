@@ -63,7 +63,17 @@ height: 40vw;
 
 .vid video{
 }
-
+.poster{
+  text-align: center;
+  background: linear-gradient(44.42deg, #141413 28.4%, #1d0e0e 52.55%);
+  color: white;
+}
+.poster spam{
+  color: #f5e616;
+}
+.poster p{
+  padding:2vw
+}
 
 
 
