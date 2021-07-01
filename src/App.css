@@ -1,3 +1,7 @@
+.navbar{
+  background: linear-gradient(44.42deg, #f5e616 28.4%, #d5ff91 52.55%);
+}
+
 
 #first{
   margin-top: -5vw;
@@ -18,25 +22,38 @@
 #head{
   padding:10vw;
   padding-left: 10vw;
+ 
 }
 #first .card-title{
   font-weight: 600;
+  color: white;
 }
+#first h2{
+  color: yellow;
+}
+
 #first .card-text{
-  color: rgb(32, 32, 32);
+  color: rgb(255, 255, 255);
   font-weight: 400;
 
 }
 .Container{
   
-  background-color: rgba(235, 186, 146, 0.562);
-  height: 40vw;
+  background: linear-gradient(44.42deg, #141413 28.4%, #1d0e0e 52.55%);
+  height: 50vw;
+  overflow: hidden;
   
 }
-.col-md-5 {
+#first .col-md-5 {
+  margin-top: 10vw;
   background-image: url("Images/main.jpeg");
   background-size:cover;
+
+border-radius: 30px;
+border-color: 2px solid yellow;
 height: 40vw;
+
+
   
 }
 
@@ -44,10 +61,23 @@ height: 40vw;
   padding: 8vw;
 }
 
+.vid video{
+}
+
+.poster{
+  background-color: lightcoral;
+
+}
+.poster ul li{
+  float: left;
+  
+}
+
+
 
 
 @media screen and (max-width: 480px) {
-  .col-md-5{
+  #first .col-md-5{
     background-size: cover;
     height: 100vw;
   }
@@ -57,7 +87,6 @@ height: 40vw;
     width: 100%;
   }
 }
-
 
 
 
