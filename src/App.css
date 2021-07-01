@@ -1,6 +1,9 @@
 .navbar{
   background: linear-gradient(44.42deg, #f5e616 28.4%, #d5ff91 52.55%);
 }
+.navbar .nav-item{
+  right: auto;
+}
 
 
 #first{
@@ -67,6 +70,7 @@ height: 40vw;
   text-align: center;
   background: linear-gradient(44.42deg, #141413 28.4%, #1d0e0e 52.55%);
   color: white;
+  border-color: transparent;
 }
 .poster spam{
   color: #f5e616;
@@ -74,6 +78,55 @@ height: 40vw;
 .poster p{
   padding:2vw
 }
+.poster h1{
+  padding-top: 2vw;
+}
+.cert {
+  height: 20vw;
+}
+.cert .box{
+  float:left;
+  padding: 10vw;
+  width: 2vw;
+  height: 2vw;
+  
+}
+.cert .mess{
+  float: right;
+}
+#az{
+  background-image: url("Images/ms1.png");
+  background-size: cover;
+}
+#pl{
+  background-image: url("Images/ms2.jpg");
+  background-size: cover;
+}
+
+#ai{
+  background-image: url("Images/ms3.png");
+  background-size: cover;
+}
+#mess1{
+  background: linear-gradient(44.42deg, #141413 30.4%, #a10606 52.55%);
+  height: 10vw;
+  width: 25vw;
+  margin-right: 2vw;
+  margin-top: 15vw;
+  border-radius: 25px;
+  text-align: center;
+  color: aliceblue;
+}
+#mess1 spam{
+  color: #f5e616;
+}
+
+.work{
+  height: 10vw;
+  background-color: aquamarine;
+
+}
+
 
 
 
@@ -88,6 +141,21 @@ height: 40vw;
     height: 160vw;
     width: 100%;
     
+  }
+  .cert .box{
+    float: none;
+    width: 100%;
+    height: 2vw;
+    padding: 50vw;
+    
+  }
+  .cert{
+    height: 50vw;
+   
+  }
+  #mess1{
+    height: 32vw;
+    width: 100%;
   }
 }
 
