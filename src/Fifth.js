@@ -7,6 +7,13 @@ const Fifth = () => {
         <>
 <div className="work">
     
+    <ul>
+        <li className="pos1"></li>
+        <li>second</li>
+         <li>forth</li>
+         <li>fifth</li>
+    </ul>
+    
 </div>
 
 

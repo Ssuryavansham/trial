@@ -13,9 +13,14 @@ const Second = () => {
               
            
       
-        <h1 class="card-title">The Future of Desiging</h1><h2 >Provide By Our Compney</h2>
+        <h1 class="card-title">Hii, I'm <spam>Sidhant Suryavansham</spam></h1>
         <p class="card-text">This site is Under Cunstraction</p>
         <a href="#" class="btn btn-primary">REQUEST AN APPOINMENT</a>
+
+        <div className="button">
+          
+         <p>Press</p>
+        </div>
         
         
       </div>

@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
 .navbar{
-  background: linear-gradient(44.42deg, #f5e616 28.4%, #d5ff91 52.55%);
+ 
+  background: linear-gradient(44.42deg, #ffff0d 28.4%, #def513 52.55%);
+  
 }
 .navbar .nav-item{
+ 
   right: auto;
 }
+.navbar .nav-item:hover{
+  border-bottom: 2px solid rgb(252, 19, 58);
+}
+
 
 
 #first{
@@ -23,7 +32,7 @@
  
 }
 #head{
-  padding:10vw;
+  padding:18vw;
   padding-left: 10vw;
  
 }
@@ -42,7 +51,7 @@
 }
 .Container{
   
-  background: linear-gradient(44.42deg, #141413 28.4%, #1d0e0e 52.55%);
+  background: linear-gradient(44.42deg, #161313 39.50%, #030303 30.55%);
   height: 50vw;
   overflow: hidden;
   
@@ -53,7 +62,7 @@
   background-size:cover;
 
 border-radius: 30px;
-border-color: 2px solid yellow;
+border-top: 5px solid yellow;
 height: 40vw;
 
 
@@ -68,15 +77,19 @@ height: 40vw;
 }
 .poster{
   text-align: center;
-  background: linear-gradient(44.42deg, #141413 28.4%, #1d0e0e 52.55%);
+  background: linear-gradient(44.42deg, #000000 48.4%,#161313 40.55%);
   color: white;
   border-color: transparent;
+  font-family: 'Baloo Tamma 2', cursive;
 }
 .poster spam{
   color: #f5e616;
+  font-family: 'Baloo Tamma 2', cursive;
 }
 .poster p{
-  padding:2vw
+  padding:2vw;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 1.3vw;
 }
 .poster h1{
   padding-top: 2vw;
@@ -90,6 +103,13 @@ height: 40vw;
   width: 2vw;
   height: 2vw;
   
+}
+#head h1 spam{
+  color: yellow;
+
+}
+#head h1{
+  color: white;
 }
 .cert .mess{
   float: right;
@@ -108,7 +128,8 @@ height: 40vw;
   background-size: cover;
 }
 #mess1{
-  background: linear-gradient(44.42deg, #141413 30.4%, #a10606 52.55%);
+  background: linear-gradient(44.42deg, #181616 59.4%, #000000 12.55%);
+ 
   height: 10vw;
   width: 25vw;
   margin-right: 2vw;
@@ -116,15 +137,54 @@ height: 40vw;
   border-radius: 25px;
   text-align: center;
   color: aliceblue;
+  
+  
+  
+  border: 3px solid yellow;
+
+  animation: mess 5s inherit;
+}
+
+
+
+
+@keyframes mess {
+  50% {box-shadow: 10px 20px 30px rgb(240, 240, 240);}
 }
 #mess1 spam{
   color: #f5e616;
 }
 
 .work{
-  height: 10vw;
-  background-color: aquamarine;
+  background: linear-gradient(44.42deg, #000000 75.4%,#181616  72.55%);
+  height: 15vw;
+ 
 
+}
+.work .pos1{
+  background-image: url('Images/pos1.png');
+  height: 300px;
+  width: 320px;
+  
+}
+.work ul li{
+  float: left;
+  color: white;
+  padding-top: 100px;
+  list-style: none;
+  padding-left: 60px;
+ 
+}
+#first .col-md-7 .button{
+  border-radius: 20px;
+  background-color: rgb(211, 201, 58);
+  width: 3vw;
+  height: 3vw;
+  text-align: center;
+  margin-top: 20vw;
+  margin-left: 0;
+  position: fixed;
+  cursor: pointer;
 }
 
 
