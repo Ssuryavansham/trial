@@ -195,6 +195,7 @@ height: 40vw;
   #first .col-md-5{
     background-size: cover;
     height: 100vw;
+   
   }
 
   .Container{
@@ -216,6 +217,9 @@ height: 40vw;
   #mess1{
     height: 32vw;
     width: 100%;
+  }
+  .poster{
+    margin-top: 0;
   }
 }
 
